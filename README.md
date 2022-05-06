@@ -6,6 +6,6 @@ NOTE: Since it is created to practice some animation and transition skills, cont
 (Example: You can choose only one direction, and chosen date is not affecting the search, it will always give same result)
 
 Here is the link to try it out:
-https://amazing-profiterole-911568.netlify.app/
+https://rococo-dodol-761436.netlify.app/
 
 ©Dogukan Mere, 2022
