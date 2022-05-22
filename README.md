@@ -1,11 +1,10 @@
-I created this project to exercise my animation and transition skills by using imaginary airline company.
+Using an imagined airline company, I made this project to practise my animation and transition skills.
 
-This was the first time I practiced my knowledge.
+This was the first time I put my knowledge into practise.
 
-NOTE: Since it is created to practice some animation and transition skills, content is basically hard-coded.
-(Example: You can choose only one direction, and chosen date is not affecting the search, it will always give same result)
+NOTE: Content is essentially hard-coded because it was developed to learn some animation and transition abilities.
+(For example, you can only choose one direction, and the date you choose has no effect on the search; it will always return the same results.)
 
-Here is the link to try it out:
-https://rococo-dodol-761436.netlify.app/
+Here's where you can try it out: https://rococo-dodol-761436.netlify.app/
 
 ©Dogukan Mere, 2022
